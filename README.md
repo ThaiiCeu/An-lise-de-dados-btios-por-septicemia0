@@ -15,4 +15,3 @@ pois ele não vai rodar muitas bases ao mesmo tempo. Começamos por São Paulo, 
 - Neste caso, consegui por uma função, criar uma maneira de pegar somente as informações que eu queira de cada base de dados, assim, ficando melhor para analisar os dados de septicemia do Brasil.
 Ainda sim, o código deixou de baixar algumas bases, mas não foram muitas, facilitado de eu pega-las manualmente, fazer o filtro e juntar com a base do Brasil que eu estava criando.
 - Fiz a mesma análise que foi feita nos dados de São Paulo para o Brasil.
-(Continuacão...)
